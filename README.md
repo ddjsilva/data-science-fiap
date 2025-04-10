@@ -8,6 +8,7 @@ Este repositório reúne os projetos desenvolvidos durante a pós-graduação em
    - `dados`: Datasets, arquivos .csv, etc.
    - `docs`: Relatórios, PDFs, apresentações, etc.
    - `src`: Códigos fontes, scripts, notebooks, etc.
+   - `resultados`: Gráficos, imagens, exportações.
 - `recursos-compartilhados/`: Materiais úteis como templates, artigos e recursos comuns.
 
 ## 👨‍💻 Colaboradores
